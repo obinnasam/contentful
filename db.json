@@ -30,5 +30,8 @@
     { "id": 6, "name": "User 6" },
     { "id": 7, "name": "User 7" },
     { "id": 8, "name": "User 8" }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
