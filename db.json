@@ -13,7 +13,7 @@
   ],
   "comments": [
     { "id": 1, "postId": 1, "name": "Commenter 1", "body": "This is a comment." },
-    { "id": 2, "postId": 2, "name": "Commenter 2", "body": "This is another comment." }'
+    { "id": 2, "postId": 2, "name": "Commenter 2", "body": "This is another comment." },
     { "id": 3, "postId": 3, "name": "Commenter 3", "body": "This is a comment." },
     { "id": 4, "postId": 4, "name": "Commenter 4", "body": "This is a comment." },
     { "id": 5, "postId": 5, "name": "Commenter 5", "body": "This is a comment." },
